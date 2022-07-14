@@ -1,0 +1,6 @@
+
+Table: It´s a element that contains rows and columns, data is logically organized in a row-and-column format similar to a spreadsheet.
+Database: Set of one or more tables.
+Rows: They are the basic unit, who describe an object.
+Colums: They are the properties of an object.
+Data type: Indicate the way to save data.

@@ -1,0 +1,45 @@
+
+Learn basic terms about Database
+Created a Database
+Create a table
+
+Learn and use sentences (CREATE, INSERT, UPDATE and DELETE)
+
+Make struct sentences (SELECT with WHERE, ORDER BY, GROUP BY , HAVING, LIMIT)
+
+Handing dates with basics functions
+How to use instruction JOIN (INNER, LEFT, RIGTH)
+How to use ALTER TABLE
+
+Foreing Key and Primary key, and more!
+
+Course topics 
+
+    >History MySQL
+    >Basics Terms
+    >Desing a Database
+    >Data types
+    >How to access MySQL
+
+    >How to create a Database
+    >How to create a table
+    >Insert data to table
+    >Insert data by SQL file
+    >Insert data by foreing file
+
+    >sentence SELECT
+    >sentence FROM
+    >sentence WHERE
+    >sentence ORDER BY
+    >sentence GROUP BY
+    >sentence HAVING
+
+    >delete data
+    >modify tables
+    >change a data column
+    >add a column
+    >add an index
+    >delete a column
+
+
+    

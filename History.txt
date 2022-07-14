@@ -1,0 +1,8 @@
+
+History 
+
+    It was created in 1996 by TCX.
+    It´s a relational Database.
+    It work very well with PHP, Apache and Linux. (There is a Stack named LAPM)
+    It´s open source Database
+    There are more packages like WAMP, MAMP, XAMPP that are using MySQL.
