@@ -52,4 +52,6 @@ Date Values
     >Date (3 bytes, format YYYY-MM-DD, "1000-01-01" to "9999-12-31")
     >TIME (3 bytes, format HH:MM:SS, "-838:59:59" to "838:59:59")
     >DATETIME (8 bytes, format YYYY-MM-DD hh:mm:ss "1000-01-01 00:00:00" to "9999-12-31 23:59:59")
-    >TIMESTAMP ()
+    >TIMESTAMP (4 bytes, format YYYYMMDDhhmmss)
+    >YEAR (1 byte, format YYYY)
+    
