@@ -1,0 +1,55 @@
+
+Integer Values 
+
+    >TINYINT (very small, 1 byte, -128 to 127 or 0 to 255)
+    >SMALLINT (small, 2 bytes, -32768 to 32767 or 0 to 65535)
+    >MEDIUMINT (medium, 3 bytes, -8388608 to 8388607 or 0 to 1677215)
+    >INT (standard, 4 bytes, -2147683648 to 2147483647 or 0 to 4294967295)
+    >BIGINT (big, 8 bytes, -9223372036854775808 to 9223372036854775807 or 0 to 18446744073709551615)
+
+    Attributes 
+        (UNSIGNED) by default all Integer values are signed 
+        (ZEROFILL) add left part with zero
+        (AUTO_INCREMENT) Add in one unit by default
+        (UNIQUE) It's a value unique, no allow value NULL
+
+Float Values 
+
+    >FLOAT (4 bytes, +-1.175494351E-38)
+    >DOUBLE (8 bytes,  +-2.2250738585072014E-308) 
+
+Decimal 
+
+    >Decimal (M,D) 
+        Float Number as string
+        Required M+2 bytes
+        Depends of value M and D
+
+RANGE to Decimal numbers
+
+DECIMAL(4,1) Range -999.9 to 999.9
+DECIMAL(5,1) Range -9999.9 to 9999.9
+DECIMAL(6,1) Range -99999.9 to 99999.9
+DECIMAL(6,2) Range -9999.99 to 9999.99
+
+String Values
+    >CHAR (fixed length)
+    >VARCHAR (unfixed length)
+    >TINYBLOB (Binary Large Object very small)
+    >BLOB (small BLOB)
+    >MEDIUMBLOB (medium BLOB)
+    >LONGBLOB (Large BLOB)
+    >TINYTEXT (small string)
+    >TEXT (standard string)
+    >MEDIUMTEXT (medium string)
+    >LONGTEXT (large string)
+    >ENUM (List option only choose one value)
+    >SET ((List option can choose multiple values))    
+
+(OPTIMAZE TABLE) is a data deframent 
+
+Date Values 
+    >Date (3 bytes, format YYYY-MM-DD, "1000-01-01" to "9999-12-31")
+    >TIME (3 bytes, format HH:MM:SS, "-838:59:59" to "838:59:59")
+    >DATETIME (8 bytes, format YYYY-MM-DD hh:mm:ss "1000-01-01 00:00:00" to "9999-12-31 23:59:59")
+    >TIMESTAMP ()

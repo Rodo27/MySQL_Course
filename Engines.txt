@@ -1,0 +1,12 @@
+
+There are many engines in MySQL,by default InnoDB is compatible with ACID
+
+    >InnoDB
+    >MyISAM
+    >Memory
+    >Archive
+    >Blackhole
+    >NDB (NDBCLUSTER)
+    >Merge
+    >FEDERATED
+    >Example
