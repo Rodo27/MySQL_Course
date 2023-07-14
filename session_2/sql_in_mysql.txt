@@ -1,0 +1,16 @@
+SQL in MySQL
+
+SQL -> Structured Query Lenguage was designed y IBM in 70´s
+
+Data Query Language or DQl -> SELECT
+
+Data Modification Language or DML -> DELECT, INSERT, LOAD DATA, OPTIMIZE TABLE, REPLACE, UPDATE
+
+DATA definition Language or DDL -> CREATE DATABASE, DROP DATABASE, USE
+
+(create, alter and drop tables) -> ALTER TABLE, CREATE INDEX, CREATE TABLE, DROP INDEX, DROP TABLE
+
+others -> FLUSH, GRANT, KILL, REVOKE, DESCRIBE, EXPLAIN, SHOW, CREATE FUNCTION, DROP FUNCTION, LOCK TABLES, SET, UNLOCK TABLES
+
+
+
